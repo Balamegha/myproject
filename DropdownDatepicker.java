@@ -37,6 +37,7 @@ public class DropdownDatepicker {
 		if(day.equals(date)) {
 		dt.click();
 		break;
+			xy;
 		}
 		}
 				}
